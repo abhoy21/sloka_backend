@@ -1,0 +1,1 @@
+web: gunicorn slokaproject.wsgi --log-file -
